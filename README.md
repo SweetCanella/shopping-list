@@ -13,5 +13,6 @@
 ![](https://github.com/SweetCanella/shopping-list/blob/3247803338c24bc799d5fb2e3348f3a552179621/screenshots/4.jpg)
 ![](https://github.com/SweetCanella/shopping-list/blob/3247803338c24bc799d5fb2e3348f3a552179621/screenshots/5.jpg)
 
-Скриншот консали приложения
+Скриншот консоли приложения
+
 ![](https://github.com/SweetCanella/shopping-list/blob/3247803338c24bc799d5fb2e3348f3a552179621/screenshots/6.jpg)
