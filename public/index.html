@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Список покупок</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Мой список покупок</h1>
+    </header>
+    
+    <main>
+      <section class="add-item">
+        <h2>Добавить покупку</h2>
+        <form id="addForm">
+          <input type="text" id="itemName" placeholder="Название покупки" required>
+          <input type="number" id="itemQuantity" placeholder="Количество" min="1" value="1">
+          <button type="submit">Добавить</button>
+        </form>
+      </section>
+      
+      <section class="shopping-list">
+        <h2>Список покупок</h2>
+        <div id="itemsContainer">
+          <p>Загрузка списка...</p>
+        </div>
+      </section>
+    </main>
+  </div>
+  
+  <script src="app.js"></script>
+</body>
+</html>
